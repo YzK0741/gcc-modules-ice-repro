@@ -1,0 +1,8 @@
+Using built-in specs.
+COLLECT_GCC=D:\jetbrains\CLion 2026.3\bin\mingw\bin\c++.exe
+COLLECT_LTO_WRAPPER=D:/jetbrains/CLion\ 2026.3/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
+Target: x86_64-w64-mingw32
+Configured with: ../gcc-15.2.0/configure --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --build=x86_64-pc-linux-gnu --prefix=/win --enable-checking=release --enable-fully-dynamic-string --enable-languages=c,c++ --with-arch=nocona --with-tune=generic --enable-libatomic --enable-libgomp --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --enable-seh-exceptions --enable-shared --enable-static --enable-threads=posix --enable-version-specific-runtime-libs --disable-bootstrap --disable-graphite --disable-libada --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-libquadmath --disable-lto --disable-nls --disable-multilib --disable-rpath --disable-symvers --disable-werror --disable-win32-registry --with-gnu-as --with-gnu-ld --with-system-libiconv --with-system-libz --with-gmp=/win --with-mpfr=/win --with-mpc=/win
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 15.2.0 (GCC) 

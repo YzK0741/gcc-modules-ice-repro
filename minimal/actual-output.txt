@@ -1,0 +1,5 @@
+utility.cppm:3:8: internal compiler error: Segmentation fault
+    3 | export module utility;
+      |        ^~~~~~
+Please submit a full bug report, with preprocessed source (by using -freport-bug).
+See <https://gcc.gnu.org/bugs/> for instructions.
